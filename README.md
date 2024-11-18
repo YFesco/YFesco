@@ -40,3 +40,9 @@
 <div>
   <img src="https://github-profily-trophy/vercel/app/?username=YFesco" alt=""/>
 </div>
+
+### :keyboard: Наиболее используемые языки :
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top=langs/?username=YFesco" alt=""/>
+</div>
