@@ -46,3 +46,9 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top=langs/?username=YFesco" alt=""/>
 </div>
+
+### :bar_chart: Статистика 
+
+<div>
+  <img src="https://github-activity-graph.vercel.app/graph?username=YFesco&theme=dracula" alt=""/>
+</div>
